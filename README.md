@@ -1,3 +1,6 @@
+https://github.com/3me3/collatz-conjecture-proof/blob/main/collatz-proof.pdf?raw=true
+
+
 # collatz-conjecture-proof
 Formal proof of the Collatz Conjecture using cycle elimination, Lyapunov decay, and bounded stopping time
 # Formal Proof of the Collatz Conjecture
